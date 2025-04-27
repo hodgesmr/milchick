@@ -37,7 +37,7 @@ Then open `about:addons`, click the ⚙️ menu → **Install Add‑on From File
 ## 🛠 Usage
 
 1. Highlight any text on any webpage.
-2. Right‑click → **Say this in normal words**.
+2. Right‑click → **Too many big words**.
 3. A small modal appears with the explanation.
 4. Click ✕ or press *Esc* to dismiss.
 

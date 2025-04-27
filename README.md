@@ -1,6 +1,10 @@
 # Milchick
 
+![waffe-party](waffle-party.png)
+
 A **one‑click explainer.** People on social media love to speak in [unnecessarily complex language](https://severance-tv.fandom.com/wiki/Trojan%27s_Horse). Select any text in Firefox, right‑click, and choose **“Too many big words”**. The add‑on sends the snippet to OpenAI's GPT API and pops up a tidy, in‑page modal with a plain‑language explanation.
+
+![screenshot](screenshot.png)
 
 ## ✨ Features
 

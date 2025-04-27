@@ -24,9 +24,15 @@ A **one‑click explainer.** People on social media love to speak in [unnecessar
 4. Select the repo’s **`manifest.json`** file.
 5. The extension appears in the list; click **Options** to paste your OpenAI API key.
 
-> **Heads‑up:** Temporary add‑ons disappear when you close Firefox; use the *Permanent install* guide below for daily use.
+> **Heads‑up:** Temporary add‑ons disappear when you close Firefox; use the *Package install* guide below for daily use.
 
-### Permanent install (unsigned XPI)
+### Package install (unsigned XPI)
+
+Only available in Firefox Dev or Nightly:
+
+First, open `about:config` and set `xpinstall.signatures.required` → **false**
+
+Then, package:
 
 ```bash
 zip -r milchick.xpi \

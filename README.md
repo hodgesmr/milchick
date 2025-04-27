@@ -41,3 +41,6 @@ Then open `about:addons`, click the ⚙️ menu → **Install Add‑on From File
 3. A small modal appears with the explanation.
 4. Click ✕ or press *Esc* to dismiss.
 
+## License
+
+All code is provided under the [BSD 3-Clause license](https://github.com/hodgesmr/milchick/blob/main/LICENSE).

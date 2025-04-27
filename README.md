@@ -20,7 +20,7 @@ A **one‑click explainer.** People on social media love to speak in [unnecessar
 
 1. Clone or download this repository.
 2. In Firefox, open `about:debugging#addons`.
-3. Click **“This Firefox” → **`Load Temporary Add‑on…`.
+3. Click **This Firefox** → `Load Temporary Add‑on…`.
 4. Select the repo’s **`manifest.json`** file.
 5. The extension appears in the list; click **Options** to paste your OpenAI API key.
 

@@ -24,7 +24,7 @@ A **one‑click explainer.** People on social media love to speak in [unnecessar
 4. Select the repo’s **`manifest.json`** file.
 5. The extension appears in the list; click **Options** to paste your OpenAI API key.
 
-> **Heads‑up:** Temporary add‑ons disappear when you close Firefox; use the *Package install* guide below for daily use.
+**Heads‑up:** Temporary add‑ons disappear when you close Firefox; use the *Package install* guide below for daily use.
 
 ### Package install (unsigned XPI)
 

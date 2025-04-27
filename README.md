@@ -47,6 +47,17 @@ Then open `about:addons`, click the ⚙️ menu → **Install Add‑on From File
 3. A small modal appears with the explanation.
 4. Click ✕ or press *Esc* to dismiss.
 
+## ❗ Validate every answer ❗
+
+Milchick relies on OpenAI’s large-language-model API. While the model is remarkably good at plain-language summaries, it can still:
+
+* omit nuance or context,
+* add plausible-sounding but incorrect details,
+* or misinterpret the author’s intent.
+
+**Always treat the popup as a draft, not an authoritative source.**  
+If fidelity matters, read the original text yourself and verify any critical claims before sharing or acting on them.
+
 ## License
 
 All code is provided under the [BSD 3-Clause license](https://github.com/hodgesmr/milchick/blob/main/LICENSE).
